@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sundhararaj
 - 👀 I’m interested in game development
-- 🌱 I’m finished engineering
+- 🌱 I finished my engineering degree
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me sundhararaj142@gmail.com
 
