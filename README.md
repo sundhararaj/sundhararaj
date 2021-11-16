@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sundhararaj
-- 👀 I’m interested in science and technology
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game development
+- 🌱 I’m finished engineering
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me sundhararaj142@gmail.com
 
 <!---
